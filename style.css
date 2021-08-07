@@ -1,0 +1,49 @@
+body {
+    background: #a86d32;
+}
+
+#marqueeStyle {
+    background: blue;
+    margin-top: 5px;
+    height: 30px;
+    font-size: 20px;
+    color: white;  
+}
+
+#details {
+    position: absolute;
+    left: 1020px;
+    top: 680px;
+    
+}
+
+#im {
+    height: 250px;
+    width: 270px;
+    position: absolute;
+    left: 740px;
+    top: 630px;
+}
+
+#map {
+    margin-bottom: 20px;
+}
+
+h2,h3,h4 {
+    color: white;
+    font-weight: bold;
+}
+
+h5 {
+    color: blue;
+}
+
+#video {
+    border: 5px solid gold;
+}
+
+#map {
+    border: 3px solid gold;
+}
+
+    
